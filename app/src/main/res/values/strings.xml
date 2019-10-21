@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InterestCalculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="initial_investment">Initial Investement</string>
+    <string name="regular_Payment">Regular Payment</string>
+    <string name="Annual_Intrest_Rate">Annual Interest Rate</string>
+    <string name="Years_to_grow">Years to grow</string>
+    <string name="result">Result</string>
+    <string-array name="deposit_freq">
+    <item>Monthly</item>
+    <item>Quartely</item>
+    <item>Semi-annually</item>
+    <item>Annually</item>
+    </string-array>
+</resources>
